@@ -4,7 +4,7 @@ Minecraft 模组开发者，正在给 Create 的机械世界装上"可编程大�
 
 ### 🔭 当前项目
 **[Create: Schematic Compute](https://github.com/y15173334444/create-schematic-compute)**
-Create 模组扩展：10 个可编程方块 + 1 个便携终端，可视化节点式编程系统。
+Create 模组扩展：12 个可编程方块 + 1 个便携终端，可视化节点式编程系统。
 
 ### 📺 B站更新视频
 **[爱玩我的世界的乌鸡](https://space.bilibili.com/3546778326534841)** —— 模组更新视频与演示
